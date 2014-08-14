@@ -1,0 +1,10 @@
+File		run Config		result			RAM
+
+primer.py	pypy	7.3335249424:   664579	19.452M + 11.316M
+primer.py	python	55.0426769257:  664579	23.548M + 1.852M
+primer.c	clang	1.294029:       664579	1.632M  + 0.304M
+primer.c	cl -O3	0.908038:       664579	1.104M  + 0.304M
+primer_sin_sli	go	3.248554403s:	664579	20.240M + 0.540M
+primer_sin_arr	go	3.337368608s:	664579	156.924M + 78.54M
+primer_s_a_iter	go	....................	235.216M + 78.66M
+primer_concurr	go	7.863541342s:	664579	20.968M + 0.584M

@@ -8,4 +8,5 @@ primer.pas	fpc264	3.720380035:    664579	1.976M  + 0.136M
 primer_sin_sli	go	3.156230691s:   664579	20.240M + 0.540M
 primer_sin_arr	go	3.337368608s:	664579	156.924M + 78.54M
 primer_s_a_iter	go	....................	235.216M + 78.66M
-primer_concurr	go	7.863541342s:	664579	20.968M + 0.584M
+primer_concur_4	go	3.906765893s:   664616	31.516M + 0.584M
+primer_concur_1	go	4.751173223s:   664579	21.588M + 0.584M

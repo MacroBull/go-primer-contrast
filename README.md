@@ -11,7 +11,7 @@ Here gives the code to filter primes directly, the amount of process is constant
 however without sorting the prime list, the result can rarely be correct.
 I regard it only as a performance test, so won't fix it.
 
-** BUT, why using array cost much more RAM and is slower than slice!!? **
+**BUT, why using array cost much more RAM and is slower than slice!!?**
 
 ----------------------------------
 初学Go, 想学习一下它的并发, 看下性能.
@@ -22,7 +22,7 @@ I regard it only as a performance test, so won't fix it.
 只会随机多得到几个, 可以接受((
 结果如下, pascal的性能略悲催啊, 虽然代码风格和Go有丁点像XD
 
-** 但是为什么用数组比切片还慢, 还爆那么大内存? 搞不懂啊 **
+**但是为什么用数组比切片还慢, 还爆那么大内存? 搞不懂啊**
 
 result
 ---------------------------
